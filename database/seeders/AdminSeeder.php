@@ -15,11 +15,11 @@ class AdminSeeder extends Seeder
     {
         // Create admin account
         User::updateOrCreate(
-            ['email' => 'nrintellitech@gmail.com'],
+            ['email' => 'admin123@gmail.com'],
             [
                 'name' => 'Admin',
                 'password' => Hash::make('Admin123'),
-                'phone' => '014-9840609',
+                'phone' => '014-1258963',
                 'status' => 'active',
                 'role' => 'admin',
             ]
@@ -27,18 +27,18 @@ class AdminSeeder extends Seeder
 
         // Create a sample customer account
         User::updateOrCreate(
-            ['email' => 'ezlyn0910@gmail.com'],
+            ['email' => 'user123@gmail.com'],
             [
-                'name' => 'Ezlyn',
-                'password' => Hash::make('Ezlyn0910@'),
-                'phone' => '014-9840609',
+                'name' => 'User',
+                'password' => Hash::make('User123'),
+                'phone' => '014-1258963',
                 'status' => 'active',
                 'role' => 'customer',
             ]
         );
 
         $this->command->info('Admin user created successfully!');
-        $this->command->info('Email: nrintellitech@gmail.com');
+        $this->command->info('Email: user123@gmail.com');
         $this->command->info('Password: Admin123');
     }
 }
