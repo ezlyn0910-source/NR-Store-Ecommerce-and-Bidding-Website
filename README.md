@@ -5,11 +5,28 @@
 ## Key Features
 
 ## Tech Stack 
+1. Backend
+2. Frontend
+3. Database
+4. Tools
 
 ## Screenshots
+**Customer User Interface**
+
+1. Login and registration
+2. Homepage
+3. Product catalog
+4. Orders
+5. Product bidding
+6. About us
+7. Cart
+8. Profile
+
+**Admin User Interface**
+
 
 ## Setup Instruction 
-1. Clonr the repository/ download project zip file
+1. Clone the repository/ download project zip file
 2. Install PHP dependencies command:
    * composer install
 3. Install frontend dependencies command:
