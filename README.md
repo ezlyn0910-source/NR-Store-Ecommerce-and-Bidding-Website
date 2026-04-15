@@ -1,8 +1,29 @@
 # NR Store: e-Commerce and Bidding Website
 
 ## Project Description
+NR-Store is a specialized full-stack e-commerce platform developed to manage the sale and auction of new and refurbished electronic products, particularly laptops and PCs. The system is designed to provide a seamless transition between a traditional retail experience and a dynamic bidding environment.
 
 ## Key Features
+**Advanced E-Commerce Workflow**
+1. Product catalog
+2. Shopping Experience
+3. Secure Checkout
+4. Online payment
+5. Order tracking
+   
+**Real-Time Bidding (Auction) System**
+1. Live auction
+2. Countdown logic
+3. Winner determination
+4. Bid monitoring
+   
+**Administrative Control Panel**
+1. User management
+2. Inventory management
+3. Bid management
+4. Order and purchase management
+
+**Technical & Security Features**
 
 ## Tech Stack 
 1. Backend
