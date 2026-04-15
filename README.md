@@ -26,10 +26,20 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
 **Technical & Security Features**
 
 ## Tech Stack 
-1. Backend
-2. Frontend
-3. Database
-4. Tools
+1. Core technologies
+   * PHP - Server-side scripting language
+   * Laravel - The PHP framework for web artisans (used for backend logic and API routing)
+   * MySQL - Relational database management system
+3. Frontend
+   * HTML5 and CSS3 - For responsive web structure and styling 
+   * JavaScript
+4. Payment Integration
+   * Stripe API
+   * ToyyibPay
+6. Tools and environment
+   * Visual Studio Code
+   * MySQL Workbench
+   * GitHub
 
 ## Screenshots
 **Customer User Interface**
