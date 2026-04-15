@@ -109,5 +109,12 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
    * php artisan db:seed
 8. Launch application command:
    * php artisan serve
+9. Customer login details
+   * username: user123@gmail.com
+   * password: User123
+11. Admin login details
+   * username: admin123@gmail.com
+   * password: Admin123
+
 
 **Developed by Ezlyn Azwa and Amira Izzati**
