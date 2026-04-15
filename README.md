@@ -87,6 +87,7 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
 3. Product catalog
 
    <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2af6308d-85e7-4c5a-afbd-7f445d579ebd" />
+   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e6a012bb-0441-4000-a3d7-893ecfdb380e" />
 
 4. Orders
 
