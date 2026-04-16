@@ -110,6 +110,8 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
 8. Checkout
 
    <img width="900" height="500" alt="Screenshot 2025-12-13 174956" src="https://github.com/user-attachments/assets/ad33fc8f-7ce3-432d-9ebc-ae99669872fa" />
+   <img width="900" height="500" alt="Screenshot 2025-12-14 212219" src="https://github.com/user-attachments/assets/dcc4aede-ab77-4745-9648-0e34fcc6af14" />
+
 
 9. Profile
 
@@ -119,10 +121,40 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
 **Admin User Interface**
 
 1. Main dashboard
+
+   <img width="900" height="500" alt="Screenshot 2025-12-15 155722" src="https://github.com/user-attachments/assets/fa48f14e-0cf3-4541-9a6d-bbedcf59aef5" />
+
+
 2. Product Management
+
+   <img width="900" height="500" alt="Screenshot 2025-12-13 182747" src="https://github.com/user-attachments/assets/66603943-4135-410f-af78-f0acfe590515" />
+   <img width="900" height="500" alt="Screenshot 2025-12-31 164114" src="https://github.com/user-attachments/assets/c64b11a7-db6f-42e7-9dc0-6531e3abc5be" />
+   <img width="900" height="500" alt="Screenshot 2025-12-31 164157" src="https://github.com/user-attachments/assets/f91d9f15-e3f9-4d66-b136-f905d818872f" />
+
+
+
+
 3. Order Management
+
+   <img width="900" height="500" alt="Screenshot 2025-12-31 164634" src="https://github.com/user-attachments/assets/73301b66-9d42-4580-afcf-e894c99ed220" />
+   <img width="900" height="500" alt="Screenshot 2025-12-31 164710" src="https://github.com/user-attachments/assets/da149f97-2b03-418a-842c-0c8355ed03d6" />
+   <img width="900" height="500" alt="Screenshot 2025-12-31 164752" src="https://github.com/user-attachments/assets/e0db0083-40b6-4741-a38c-f8af02ab7a5e" />
+
+
+
 4. User Management
+
+    <img width="900" height="500" alt="Screenshot 2025-12-31 163517" src="https://github.com/user-attachments/assets/be10d0f9-5666-4826-94ca-970bae04f026" />
+    <img width="900" height="500" alt="Screenshot 2025-12-31 163557" src="https://github.com/user-attachments/assets/fe455c14-301e-4ee3-b39e-6045f0f542c2" />
+
+
+
 5. Bid Management
+
+   <img width="900" height="500" alt="Screenshot 2025-12-31 165128" src="https://github.com/user-attachments/assets/46db5db8-a419-4347-ba53-435cdbdf211e" />
+   <img width="900" height="500" alt="Screenshot 2025-12-31 165213" src="https://github.com/user-attachments/assets/325c3788-c62a-4f7a-8abb-d2b72bfe2714" />
+
+
 
 ## Setup Instruction 
 1. Clone the repository/ download project zip file
