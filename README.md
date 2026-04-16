@@ -182,4 +182,4 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
    * password: Admin123
 
 
-**Developed by Ezlyn Azwa and Amira Izzati**
+**Developed by Ezlyn Azwa and Amirah Izzati**
