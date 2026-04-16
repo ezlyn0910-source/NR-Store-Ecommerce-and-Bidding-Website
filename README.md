@@ -78,6 +78,7 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
 
    <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/17f84372-368f-4c99-abba-1af66195b778" />
    <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/ee39598c-3fb4-462b-8451-436d9ba893bd" />
+   <img width="900" height="500" alt="Screenshot 2026-01-03 182943" src="https://github.com/user-attachments/assets/cc10bbe2-acf0-4c1d-998f-13c71335ad29" />
 
 2. Homepage
 
@@ -86,18 +87,34 @@ NR-Store is a specialized full-stack e-commerce platform developed to manage the
 
 3. Product catalog
 
-   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2af6308d-85e7-4c5a-afbd-7f445d579ebd" />
-   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e6a012bb-0441-4000-a3d7-893ecfdb380e" />
+   <img width="900" height="500" alt="Screenshot 2025-12-13 172954" src="https://github.com/user-attachments/assets/94891440-dd0c-4b5a-b5f2-461529d85c87" />
+   <img width="900" height="500" alt="Screenshot 2025-12-13 173239" src="https://github.com/user-attachments/assets/cceec945-bdf2-4152-92a7-cb2f8e6f2057" />
+
 
 4. Orders
 
    <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2dbab7d6-6577-4200-9932-8b01ee39de22" />
 
-
 5. Product bidding
+
+   <img width="900" height="500" alt="Screenshot 2025-12-13 174238" src="https://github.com/user-attachments/assets/c69cd5b4-937f-4fdb-b4e6-e7f85da62280" />
+   
 6. About us
+
+   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/9b3d2689-3bb7-4175-a35a-6a17d21319bc" />
+
 7. Cart
-8. Profile
+
+   <img width="900" height="500" alt="Screenshot 2025-12-13 174423" src="https://github.com/user-attachments/assets/59faffc3-56b8-4df1-9227-3c1d1d871aae" />
+   
+8. Checkout
+
+   <img width="900" height="500" alt="Screenshot 2025-12-13 174956" src="https://github.com/user-attachments/assets/ad33fc8f-7ce3-432d-9ebc-ae99669872fa" />
+
+9. Profile
+
+   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/9fa46588-e01a-4fea-8e37-365ee88ed1bd" />
+
 
 **Admin User Interface**
 
